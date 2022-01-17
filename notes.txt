@@ -1,0 +1,15 @@
+Evaluasi RestFul API Go:
+A. CRUD dengan skema Employee dengan field sbb:
+   1. employee_id
+   2. first_name
+   3. last_name
+   4. phone
+   5. address
+
+B. Buat Logging:
+   1. Setiap ada Request harus di record
+   2. Setiap ada warning harus di record
+   3. Setiap ada Error harus di record
+
+
+
